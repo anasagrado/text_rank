@@ -4,6 +4,6 @@ decorator==4.4.2
 joblib==0.14.1
 networkx==2.4
 nltk==3.5
-numpy==1.18.4
+numpy==1.22.0
 regex==2020.5.7
 tqdm==4.46.0
